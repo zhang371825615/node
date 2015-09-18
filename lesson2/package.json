@@ -1,0 +1,15 @@
+{
+  "name": "zhang",
+  "version": "1.0.0",
+  "description": "zhangjiayi",
+  "main": "zhang",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "utility": "^1.4.0"
+  }
+}
